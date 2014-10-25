@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-# the function makeCacheMatrix() can create a matrix and can cache its inverse, besides this it 
+# the function makeCacheMatrix() takes over a matrix and can cache its inverse, besides this it 
 # offers functions for getting and setting the matrix and for getting and setting the cashed inverse matrix
 # the function cacheSolve() calculates the inverse matrix of a given matrix and caches the inverse matrix
 
